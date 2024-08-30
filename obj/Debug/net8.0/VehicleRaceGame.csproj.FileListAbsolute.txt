@@ -1,0 +1,14 @@
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\bin\Debug\net8.0\VehicleRaceGame.exe
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\bin\Debug\net8.0\VehicleRaceGame.deps.json
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\bin\Debug\net8.0\VehicleRaceGame.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\bin\Debug\net8.0\VehicleRaceGame.dll
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\bin\Debug\net8.0\VehicleRaceGame.pdb
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\VehicleRaceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\VehicleRaceGame.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\VehicleRaceGame.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\VehicleRaceGame.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\VehicleRaceGame.dll
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\refint\VehicleRaceGame.dll
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\VehicleRaceGame.pdb
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\VehicleRaceGame.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\VehicleRaceGame\obj\Debug\net8.0\ref\VehicleRaceGame.dll
